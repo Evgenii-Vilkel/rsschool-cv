@@ -2,4 +2,39 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    border: 1px solid #000;
+}
+html {
+    scroll-behavior: smooth;
+}
+body {
+    margin: 0 auto;
+    font-size: 18px;
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style: none;
+}
+.header, .site-nav, .menu {
+    display: flex;
+    width: 100%;
+    height: 50px;
+}
+.menu {
+    justify-content: space-around;
+}
+.menu-item {
+    height: 100%;
+}
+.menu-link {
+    display: inline-block;
+    padding: 0 .5rem;
+    height: 100%;
+    text-decoration: none;
+    align-content: center;
+}
+.menu-link::first-letter {
+    text-transform: uppercase;
 }
