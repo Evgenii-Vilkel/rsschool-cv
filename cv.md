@@ -37,7 +37,7 @@ function solution(str, ending){
 ```
 
 # Experience
-[Educational project on Stepik](https://evgenii-vilkel.github.io/stepic_project/)</br>
+* [Educational project on Stepik](https://evgenii-vilkel.github.io/stepic_project/)</br>
 _Basics of HTML and CSS with semantic blocks using flex and grid containers.</br>
 The layout is adapted within the range from 1280px to 1920px screen width._
 
@@ -48,8 +48,8 @@ The layout is adapted within the range from 1280px to 1920px screen width._
 *  [Basics of Web layout with HTML and CSS Certificate](https://stepik.org/cert/2899310?lang=en)
 
 # Languages
-**Belarussian** - native
+* **Belarussian** - native
 
-**Russian** - native
+* **Russian** - native
 
-**English**  - A2 Elementary [*EF SET Certificate*](https://cert.efset.org/o32NHz)
+* **English**  - A2 Elementary [*EF SET Certificate*](https://cert.efset.org/o32NHz)
