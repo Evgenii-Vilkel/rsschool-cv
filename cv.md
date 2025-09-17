@@ -3,8 +3,8 @@
 # Contacts
   * **Email:** [evgeniivilkel@gmail.com](mailto:evgeniivilkel@gmail.com) 
   * **Discord:** [Evgenii Vilkel(@Evgenii-Vilkel)](https://discord.gg/9mSEnM4G) 
-  * **LinkedIn:** [evgeniivilkel](https://www.linkedin.com/in/evgeniivilkel/)
-  * **GitHub:** [Evgenii vilkel](https://github.com/Evgenii-Vilkel)
+  * **LinkedIn:** [EvgeniiVilkel](https://www.linkedin.com/in/evgeniivilkel/)
+  * **GitHub:** [Evgenii-Vilkel](https://github.com/Evgenii-Vilkel)
 
 # About me
 With a creative background in graphic illustration and digital printing, 
